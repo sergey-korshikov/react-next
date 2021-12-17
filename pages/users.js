@@ -15,7 +15,7 @@ function Users({users}) {
 	// 	setUsers(data);
 	// }, []);
 
-	const title = "Список пользователей";
+	const title = "Пользователи";
 
 	return (
 		<MainContainer keywords={'users page'} title={title}>
